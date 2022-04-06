@@ -2,10 +2,10 @@
 #### Bienvenidos a mi viaje educativo
 Estoy aca solo por diversión y entretenimiento, descubrir un poco sobre como funciona la tecnología en general.
 
-Habilidades: JS / HTML / CSS
+Habilidades: JS / HTML / CSS / PYTHON
 
 - 🔭 Estoy trabajando en Nuevos proyectos.... 
-- 🌱 Estoy aprendiendo Desarrollo web FullStack (HTML, CSS, JS, PHP, SQL) 
+- 🌱 Estoy aprendiendo Desarrollo web FullStack (HTML, CSS, JS, PYTHON, SQL) 
 - 📫 Cómo contactarme: Instagram dm  
 
 
